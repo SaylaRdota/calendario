@@ -5,6 +5,7 @@
                 :locale="esLocale"
                 ref="calendar"
                 :plugins="calendarPlugins"
+                height="parent"
                 :header="{
                     left: 'title',
                     center: 'dayGridMonth, timeGridWeek, timeGridDay, listWeek',
