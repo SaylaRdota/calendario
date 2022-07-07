@@ -22,7 +22,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "jquery-ui-bundle": "^1.12.1-migrate",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "popper.js": "1.14.3",
     "vue": "^2.6.10",
     "vue-full-calendar": "^2.7.0",
